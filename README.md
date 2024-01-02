@@ -3,4 +3,4 @@ Hello, I'm Nattanicha from North Vancouver. I'm pursuing a Computer Systems Cert
 
 Feel free to explore my repositories! Each project is well-documented with DocStrings and comments, and you can find concise descriptions in the README.md files. If you have any questions or feedback, don't hesitate to reach out.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NichapraeNiw)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NichapraeNiw&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
