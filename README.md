@@ -5,7 +5,7 @@ Feel free to explore my repositories! Each project is well-documented with DocSt
 
 ### Contact info:
 - School email: nnilsriphaiwan@my.bcit.ca
-- Personal email: nichapraeniw@hmail.com
+- Personal email: nichapraeniw@gmail.com
 - LinkedIn: linkedin.com/in/nnilsriphaiwan
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NichapraeNiw&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
