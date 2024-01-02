@@ -3,5 +3,9 @@ Hello, I'm Nattanicha from North Vancouver. I'm pursuing a Computer Systems Cert
 
 Feel free to explore my repositories! Each project is well-documented with DocStrings and comments, and you can find concise descriptions in the README.md files. If you have any questions or feedback, don't hesitate to reach out.
 
+### Contact info:
+- School email: nnilsriphaiwan@my.bcit.ca
+- Personal email: nichapraeniw@hmail.com
+- LinkedIn: linkedin.com/in/nnilsriphaiwan
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NichapraeNiw&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
