@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello, I'm Nattanicha from Vancouver. I'm currently pursuing a Computer Systems Diploma at BCIT. Any proud-to-present projects I have done will be uploaded to my GitHub profiles. Feel free to explore!
+Hello, I'm Nattanicha from Vancouver. I'm currently pursuing a Computer Systems Diploma at BCIT. Any proud-to-present projects I have done will be uploaded to my GitHub profile. Feel free to explore!
 
 ### Contact info:
 - School email: nnilsriphaiwan@my.bcit.ca
