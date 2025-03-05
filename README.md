@@ -6,4 +6,4 @@ Hello, I'm Nattanicha from Vancouver. I'm currently pursuing a Computer Systems 
 - Personal email: nichapraeniw@gmail.com
 - LinkedIn: www.linkedin.com/in/nnilsriphaiwan
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?NichapraeNiw=anuraghazra&hide_progress=true)
